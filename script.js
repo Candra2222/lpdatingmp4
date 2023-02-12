@@ -6,5 +6,5 @@ document.addEventListener("DOMContentLoaded", function () {
   setTimeout(function () {
     document.getElementById("popup").style.display = "flex";
     video.pause();
-  }, 4000);
+  }, 10000);
 });
